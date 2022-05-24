@@ -1,0 +1,13 @@
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\bin\Debug\netcoreapp3.1\starpattern.exe
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\bin\Debug\netcoreapp3.1\starpattern.deps.json
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\bin\Debug\netcoreapp3.1\starpattern.runtimeconfig.json
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\bin\Debug\netcoreapp3.1\starpattern.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\bin\Debug\netcoreapp3.1\starpattern.dll
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\bin\Debug\netcoreapp3.1\starpattern.pdb
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\obj\Debug\netcoreapp3.1\starpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\obj\Debug\netcoreapp3.1\starpattern.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\obj\Debug\netcoreapp3.1\starpattern.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\obj\Debug\netcoreapp3.1\starpattern.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\obj\Debug\netcoreapp3.1\starpattern.dll
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\obj\Debug\netcoreapp3.1\starpattern.pdb
+C:\Users\Ketki Kulkarni\source\repos\starpattern\starpattern\obj\Debug\netcoreapp3.1\starpattern.genruntimeconfig.cache

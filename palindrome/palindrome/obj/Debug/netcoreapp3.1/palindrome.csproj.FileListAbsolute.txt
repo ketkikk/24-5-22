@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\bin\Debug\netcoreapp3.1\palindrome.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\palindrome\palindrome\obj\Debug\netcoreapp3.1\palindrome.genruntimeconfig.cache

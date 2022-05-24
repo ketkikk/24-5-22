@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\bin\Debug\netcoreapp3.1\duplicate element in array.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\bin\Debug\netcoreapp3.1\duplicate element in array.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\bin\Debug\netcoreapp3.1\duplicate element in array.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\bin\Debug\netcoreapp3.1\duplicate element in array.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\bin\Debug\netcoreapp3.1\duplicate element in array.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\bin\Debug\netcoreapp3.1\duplicate element in array.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\obj\Debug\netcoreapp3.1\duplicate element in array.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\obj\Debug\netcoreapp3.1\duplicate element in array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\obj\Debug\netcoreapp3.1\duplicate element in array.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\obj\Debug\netcoreapp3.1\duplicate element in array.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\obj\Debug\netcoreapp3.1\duplicate element in array.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\obj\Debug\netcoreapp3.1\duplicate element in array.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\obj\Debug\netcoreapp3.1\duplicate element in array.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\duplicate element in array\duplicate element in array\obj\Debug\netcoreapp3.1\duplicate element in array.genruntimeconfig.cache

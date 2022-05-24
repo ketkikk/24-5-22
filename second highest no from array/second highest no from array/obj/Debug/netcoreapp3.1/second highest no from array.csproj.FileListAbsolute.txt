@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\bin\Debug\netcoreapp3.1\second highest no from array.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\bin\Debug\netcoreapp3.1\second highest no from array.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\bin\Debug\netcoreapp3.1\second highest no from array.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\bin\Debug\netcoreapp3.1\second highest no from array.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\bin\Debug\netcoreapp3.1\second highest no from array.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\bin\Debug\netcoreapp3.1\second highest no from array.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\obj\Debug\netcoreapp3.1\second highest no from array.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\obj\Debug\netcoreapp3.1\second highest no from array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\obj\Debug\netcoreapp3.1\second highest no from array.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\obj\Debug\netcoreapp3.1\second highest no from array.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\obj\Debug\netcoreapp3.1\second highest no from array.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\obj\Debug\netcoreapp3.1\second highest no from array.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\obj\Debug\netcoreapp3.1\second highest no from array.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\second highest no from array\second highest no from array\obj\Debug\netcoreapp3.1\second highest no from array.genruntimeconfig.cache

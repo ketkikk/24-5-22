@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\bin\Debug\netcoreapp3.1\2dimension array.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\bin\Debug\netcoreapp3.1\2dimension array.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\bin\Debug\netcoreapp3.1\2dimension array.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\bin\Debug\netcoreapp3.1\2dimension array.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\bin\Debug\netcoreapp3.1\2dimension array.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\bin\Debug\netcoreapp3.1\2dimension array.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\obj\Debug\netcoreapp3.1\2dimension array.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\obj\Debug\netcoreapp3.1\2dimension array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\obj\Debug\netcoreapp3.1\2dimension array.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\obj\Debug\netcoreapp3.1\2dimension array.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\obj\Debug\netcoreapp3.1\2dimension array.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\obj\Debug\netcoreapp3.1\2dimension array.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\obj\Debug\netcoreapp3.1\2dimension array.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\2dimension array\2dimension array\obj\Debug\netcoreapp3.1\2dimension array.genruntimeconfig.cache

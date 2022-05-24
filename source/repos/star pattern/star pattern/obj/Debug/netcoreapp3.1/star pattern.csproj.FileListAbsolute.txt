@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\obj\Debug\netcoreapp3.1\star pattern.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\obj\Debug\netcoreapp3.1\star pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\obj\Debug\netcoreapp3.1\star pattern.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\obj\Debug\netcoreapp3.1\star pattern.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\obj\Debug\netcoreapp3.1\star pattern.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\bin\Debug\netcoreapp3.1\star pattern.exe
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\bin\Debug\netcoreapp3.1\star pattern.deps.json
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\bin\Debug\netcoreapp3.1\star pattern.runtimeconfig.json
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\bin\Debug\netcoreapp3.1\star pattern.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\bin\Debug\netcoreapp3.1\star pattern.dll
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\bin\Debug\netcoreapp3.1\star pattern.pdb
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\obj\Debug\netcoreapp3.1\star pattern.dll
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\obj\Debug\netcoreapp3.1\star pattern.pdb
+C:\Users\Ketki Kulkarni\source\repos\star pattern\star pattern\obj\Debug\netcoreapp3.1\star pattern.genruntimeconfig.cache

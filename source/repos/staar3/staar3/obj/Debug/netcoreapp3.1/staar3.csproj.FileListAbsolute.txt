@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\bin\Debug\netcoreapp3.1\staar3.exe
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\bin\Debug\netcoreapp3.1\staar3.deps.json
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\bin\Debug\netcoreapp3.1\staar3.runtimeconfig.json
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\bin\Debug\netcoreapp3.1\staar3.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\bin\Debug\netcoreapp3.1\staar3.dll
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\bin\Debug\netcoreapp3.1\staar3.pdb
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\obj\Debug\netcoreapp3.1\staar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\obj\Debug\netcoreapp3.1\staar3.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\obj\Debug\netcoreapp3.1\staar3.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\obj\Debug\netcoreapp3.1\staar3.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\obj\Debug\netcoreapp3.1\staar3.dll
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\obj\Debug\netcoreapp3.1\staar3.pdb
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\obj\Debug\netcoreapp3.1\staar3.genruntimeconfig.cache
+C:\Users\Ketki Kulkarni\source\repos\staar3\staar3\obj\Debug\netcoreapp3.1\staar3.csproj.AssemblyReference.cache
