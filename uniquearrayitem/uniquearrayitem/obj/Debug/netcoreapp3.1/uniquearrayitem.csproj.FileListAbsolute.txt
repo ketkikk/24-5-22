@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\bin\Debug\netcoreapp3.1\uniquearrayitem.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\bin\Debug\netcoreapp3.1\uniquearrayitem.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\bin\Debug\netcoreapp3.1\uniquearrayitem.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\bin\Debug\netcoreapp3.1\uniquearrayitem.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\bin\Debug\netcoreapp3.1\uniquearrayitem.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\bin\Debug\netcoreapp3.1\uniquearrayitem.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\obj\Debug\netcoreapp3.1\uniquearrayitem.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\obj\Debug\netcoreapp3.1\uniquearrayitem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\obj\Debug\netcoreapp3.1\uniquearrayitem.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\obj\Debug\netcoreapp3.1\uniquearrayitem.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\obj\Debug\netcoreapp3.1\uniquearrayitem.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\obj\Debug\netcoreapp3.1\uniquearrayitem.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\obj\Debug\netcoreapp3.1\uniquearrayitem.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\uniquearrayitem\uniquearrayitem\obj\Debug\netcoreapp3.1\uniquearrayitem.genruntimeconfig.cache

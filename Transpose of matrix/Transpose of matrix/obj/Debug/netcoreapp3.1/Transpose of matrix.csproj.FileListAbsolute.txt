@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\bin\Debug\netcoreapp3.1\Transpose of matrix.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\bin\Debug\netcoreapp3.1\Transpose of matrix.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\bin\Debug\netcoreapp3.1\Transpose of matrix.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\bin\Debug\netcoreapp3.1\Transpose of matrix.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\bin\Debug\netcoreapp3.1\Transpose of matrix.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\bin\Debug\netcoreapp3.1\Transpose of matrix.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\obj\Debug\netcoreapp3.1\Transpose of matrix.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\obj\Debug\netcoreapp3.1\Transpose of matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\obj\Debug\netcoreapp3.1\Transpose of matrix.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\obj\Debug\netcoreapp3.1\Transpose of matrix.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\obj\Debug\netcoreapp3.1\Transpose of matrix.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\obj\Debug\netcoreapp3.1\Transpose of matrix.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\obj\Debug\netcoreapp3.1\Transpose of matrix.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Transpose of matrix\Transpose of matrix\obj\Debug\netcoreapp3.1\Transpose of matrix.genruntimeconfig.cache

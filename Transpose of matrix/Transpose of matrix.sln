@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose of matrix", "Transpose of matrix\Transpose of matrix.csproj", "{A6624307-782F-4AB5-9448-879B4614A69B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6624307-782F-4AB5-9448-879B4614A69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6624307-782F-4AB5-9448-879B4614A69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6624307-782F-4AB5-9448-879B4614A69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6624307-782F-4AB5-9448-879B4614A69B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A07FA6D1-953D-4734-BF86-5580584AD1A4}
+	EndGlobalSection
+EndGlobal
