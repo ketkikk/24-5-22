@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\bin\Debug\netcoreapp3.1\Factorization.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\bin\Debug\netcoreapp3.1\Factorization.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\bin\Debug\netcoreapp3.1\Factorization.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\bin\Debug\netcoreapp3.1\Factorization.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\bin\Debug\netcoreapp3.1\Factorization.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\bin\Debug\netcoreapp3.1\Factorization.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\obj\Debug\netcoreapp3.1\Factorization.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\obj\Debug\netcoreapp3.1\Factorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\obj\Debug\netcoreapp3.1\Factorization.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\obj\Debug\netcoreapp3.1\Factorization.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\obj\Debug\netcoreapp3.1\Factorization.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\obj\Debug\netcoreapp3.1\Factorization.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\obj\Debug\netcoreapp3.1\Factorization.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Factorization\Factorization\obj\Debug\netcoreapp3.1\Factorization.genruntimeconfig.cache

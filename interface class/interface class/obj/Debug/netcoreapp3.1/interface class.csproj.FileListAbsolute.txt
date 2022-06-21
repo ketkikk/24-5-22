@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\bin\Debug\netcoreapp3.1\interface class.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\bin\Debug\netcoreapp3.1\interface class.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\bin\Debug\netcoreapp3.1\interface class.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\bin\Debug\netcoreapp3.1\interface class.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\bin\Debug\netcoreapp3.1\interface class.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\bin\Debug\netcoreapp3.1\interface class.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\obj\Debug\netcoreapp3.1\interface class.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\obj\Debug\netcoreapp3.1\interface class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\obj\Debug\netcoreapp3.1\interface class.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\obj\Debug\netcoreapp3.1\interface class.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\obj\Debug\netcoreapp3.1\interface class.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\obj\Debug\netcoreapp3.1\interface class.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\obj\Debug\netcoreapp3.1\interface class.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\interface class\interface class\obj\Debug\netcoreapp3.1\interface class.genruntimeconfig.cache

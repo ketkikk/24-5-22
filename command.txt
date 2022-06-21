@@ -1,0 +1,7 @@
+Scaffold-DbContext "Data Source=LAPTOP-VI23QLJ7\MSSQLESERVER3;Initial Catalog=CustomerDb1;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+HTML
+CSS
+Javascript
+Bootstap

@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\bin\Debug\netcoreapp3.1\novelvista.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\bin\Debug\netcoreapp3.1\novelvista.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\bin\Debug\netcoreapp3.1\novelvista.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\bin\Debug\netcoreapp3.1\novelvista.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\bin\Debug\netcoreapp3.1\novelvista.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\bin\Debug\netcoreapp3.1\novelvista.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\obj\Debug\netcoreapp3.1\novelvista.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\obj\Debug\netcoreapp3.1\novelvista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\obj\Debug\netcoreapp3.1\novelvista.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\obj\Debug\netcoreapp3.1\novelvista.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\obj\Debug\netcoreapp3.1\novelvista.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\obj\Debug\netcoreapp3.1\novelvista.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\obj\Debug\netcoreapp3.1\novelvista.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\novelvista\novelvista\obj\Debug\netcoreapp3.1\novelvista.genruntimeconfig.cache

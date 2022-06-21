@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\bin\Debug\netcoreapp3.1\exception handling.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\bin\Debug\netcoreapp3.1\exception handling.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\bin\Debug\netcoreapp3.1\exception handling.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\bin\Debug\netcoreapp3.1\exception handling.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\bin\Debug\netcoreapp3.1\exception handling.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\bin\Debug\netcoreapp3.1\exception handling.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\obj\Debug\netcoreapp3.1\exception handling.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\obj\Debug\netcoreapp3.1\exception handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\obj\Debug\netcoreapp3.1\exception handling.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\obj\Debug\netcoreapp3.1\exception handling.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\obj\Debug\netcoreapp3.1\exception handling.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\obj\Debug\netcoreapp3.1\exception handling.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\obj\Debug\netcoreapp3.1\exception handling.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\exception handling\exception handling\obj\Debug\netcoreapp3.1\exception handling.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\bin\Debug\netcoreapp3.1\student class.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\bin\Debug\netcoreapp3.1\student class.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\bin\Debug\netcoreapp3.1\student class.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\bin\Debug\netcoreapp3.1\student class.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\bin\Debug\netcoreapp3.1\student class.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\bin\Debug\netcoreapp3.1\student class.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\obj\Debug\netcoreapp3.1\student class.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\obj\Debug\netcoreapp3.1\student class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\obj\Debug\netcoreapp3.1\student class.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\obj\Debug\netcoreapp3.1\student class.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\obj\Debug\netcoreapp3.1\student class.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\obj\Debug\netcoreapp3.1\student class.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\obj\Debug\netcoreapp3.1\student class.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\student class\student class\obj\Debug\netcoreapp3.1\student class.genruntimeconfig.cache

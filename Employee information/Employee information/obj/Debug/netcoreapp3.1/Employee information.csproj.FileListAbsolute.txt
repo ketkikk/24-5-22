@@ -1,0 +1,14 @@
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\obj\Debug\netcoreapp3.1\Employee information.csproj.AssemblyReference.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\obj\Debug\netcoreapp3.1\Employee information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\obj\Debug\netcoreapp3.1\Employee information.AssemblyInfoInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\obj\Debug\netcoreapp3.1\Employee information.AssemblyInfo.cs
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\obj\Debug\netcoreapp3.1\Employee information.csproj.CoreCompileInputs.cache
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\bin\Debug\netcoreapp3.1\Employee information.exe
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\bin\Debug\netcoreapp3.1\Employee information.deps.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\bin\Debug\netcoreapp3.1\Employee information.runtimeconfig.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\bin\Debug\netcoreapp3.1\Employee information.runtimeconfig.dev.json
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\bin\Debug\netcoreapp3.1\Employee information.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\bin\Debug\netcoreapp3.1\Employee information.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\obj\Debug\netcoreapp3.1\Employee information.dll
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\obj\Debug\netcoreapp3.1\Employee information.pdb
+C:\Users\Ketki Kulkarni\OneDrive\Desktop\programc#\Employee information\Employee information\obj\Debug\netcoreapp3.1\Employee information.genruntimeconfig.cache
